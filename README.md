@@ -23,7 +23,7 @@ If you found the paper useful for your work, please consider citing us:
 @article{eliasof2020diffgcn,
   title={DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling},
   author={Eliasof, Moshe and Treister, Eran},
-  journal={arXiv preprint arXiv:2006.04115},
+  journal={34th Conference on Neural Information Processing Systems (NeurIPS)},
   year={2020}
 }
 ```
